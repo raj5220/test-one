@@ -1,0 +1,9 @@
+#Servers of the new platform (Magento 2):
+
+Host *
+
+IdentityFile ~/.ssh/id_rsa
+
+User raj.arora
+
+StrictHostKeyChecking no
